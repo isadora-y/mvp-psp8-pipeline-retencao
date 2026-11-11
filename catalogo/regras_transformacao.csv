@@ -1,0 +1,9 @@
+id,origem,regra,volume
+T1,TotalCharges,"texto→numérico; vazio de cliente com tenure=0 recebe 0,00",11 registros
+T2,"tenure, MonthlyCharges",conversão de tipo texto→numérico,7043 registros
+T3,SeniorCitizen,padronização 0/1 → No/Yes (alinha com as demais flags),7043 registros
+T4,serviços agregados,'No internet/phone service' → 'No' (a ausência do serviço-pai já está em InternetService/PhoneService; mantê-la duplica informação),7 colunas
+T5,Churn,'Yes'/'No' → 1/0,7043 registros
+T6,PaymentMethod,atributo derivado pagamento_automatico,7043 registros
+T7,"TotalCharges, tenure",atributo derivado ticket_medio_historico = Total/tenure,7043 registros
+T8,"MonthlyCharges, ticket_medio_historico",atributo derivado desvio_tarifario = mensalidade atual − média histórica (detecta reajuste recente),7043 registros

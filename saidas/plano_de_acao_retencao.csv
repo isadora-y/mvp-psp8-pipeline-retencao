@@ -1,0 +1,453 @@
+prioridade,customerID,risco_atual,acao,confianca_simulacao,reducao_risco,custo,ganho_esperado,tenure_meses,Contract,PaymentMethod,valor_mensal
+1,0337-CNPZE,0.5858,Débito automático,alta,0.1655,15.0000,90.5724,41,Month-to-month,Electronic check,106.3000
+2,4750-ZRXIU,0.9905,Débito automático,alta,0.2058,15.0000,89.4533,4,Month-to-month,Electronic check,84.6000
+3,2012-NWRPA,0.9597,Débito automático,alta,0.1697,15.0000,86.3343,11,Month-to-month,Electronic check,99.5500
+4,8161-QYMTT,0.9597,Débito automático,alta,0.1750,15.0000,83.8104,7,Month-to-month,Electronic check,94.1000
+5,8938-UMKPI,0.5638,Débito automático,alta,0.1496,15.0000,80.5138,47,Month-to-month,Electronic check,106.4000
+6,6474-FVJLC,0.9375,Débito automático,alta,0.1848,15.0000,80.3347,2,Month-to-month,Electronic check,86.0000
+7,7748-UMTRK,0.5858,Débito automático,alta,0.1565,15.0000,80.1452,30,Month-to-month,Electronic check,101.3000
+8,1400-MMYXY,0.9375,Débito automático,alta,0.1487,15.0000,79.4682,3,Month-to-month,Electronic check,105.9000
+9,8818-DOPVL,0.6123,Débito automático,alta,0.1496,15.0000,78.7577,46,Month-to-month,Electronic check,104.4500
+10,0576-WNXXC,0.6448,Débito automático,alta,0.1605,15.0000,77.0324,27,Month-to-month,Electronic check,95.5500
+11,6821-BUXUX,0.6123,Débito automático,alta,0.1496,15.0000,71.7562,13,Month-to-month,Electronic check,96.6500
+12,0916-QOFDP,0.8238,Débito automático,alta,0.1481,15.0000,70.1226,14,Month-to-month,Electronic check,95.8000
+13,8739-XNIKG,0.8483,Débito automático,alta,0.1683,15.0000,69.8386,5,Month-to-month,Electronic check,84.0000
+14,2545-EBUPK,0.9905,Débito automático,alta,0.1679,15.0000,69.6904,2,Month-to-month,Electronic check,84.0500
+15,3722-WPXTK,0.9116,Débito automático,alta,0.1589,15.0000,69.2254,1,Month-to-month,Electronic check,88.3500
+16,8393-DLHGA,0.5589,Débito automático,alta,0.1447,15.0000,68.2398,25,Month-to-month,Electronic check,95.9000
+17,6630-UJZMY,0.9375,Débito automático,alta,0.1666,15.0000,68.2044,4,Month-to-month,Electronic check,83.2500
+18,3365-SAIGS,0.5858,Débito automático,alta,0.1655,15.0000,67.9781,17,Month-to-month,Electronic check,83.5500
+19,3058-HJCUY,0.3474,Débito automático,alta,0.1346,15.0000,67.8334,41,One year,Electronic check,102.6000
+20,1069-XAIEM,0.9905,Débito automático,alta,0.1622,15.0000,67.7493,1,Month-to-month,Electronic check,85.0500
+21,7488-MXJIV,0.8400,Débito automático,alta,0.1608,15.0000,67.6484,4,Month-to-month,Electronic check,85.6500
+22,9822-WMWVG,0.3420,Débito automático,alta,0.1291,15.0000,67.4957,41,Month-to-month,Electronic check,106.5000
+23,0921-OHLVP,0.5858,Débito automático,alta,0.1655,15.0000,67.4815,22,Month-to-month,Electronic check,83.0500
+24,8414-MYSHR,0.9011,Débito automático,alta,0.1484,15.0000,66.3790,5,Month-to-month,Electronic check,91.4000
+25,7928-VJYAB,0.6123,Débito automático,alta,0.1496,15.0000,66.3255,11,Month-to-month,Electronic check,90.6000
+26,8621-MNIHH,0.6123,Débito automático,alta,0.1431,15.0000,65.9404,34,Month-to-month,Electronic check,94.2500
+27,0258-NOKBL,0.6123,Débito automático,alta,0.1483,15.0000,65.4563,3,Month-to-month,Electronic check,90.4000
+28,6692-UDPJC,0.5816,Débito automático,alta,0.1461,15.0000,65.3677,14,Month-to-month,Electronic check,91.6500
+29,8593-WHYHV,0.9075,Débito automático,alta,0.1548,15.0000,64.2077,3,Month-to-month,Electronic check,85.3000
+30,1894-IGFSG,0.5589,Débito automático,alta,0.1447,15.0000,62.4677,22,Month-to-month,Electronic check,89.2500
+31,0899-LIIBW,0.5459,Débito automático,alta,0.1268,15.0000,61.7420,34,Month-to-month,Electronic check,100.8500
+32,0376-YMCJC,0.5345,Débito automático,alta,0.1411,15.0000,61.7134,23,Month-to-month,Electronic check,90.6000
+33,6664-FPDAC,0.3148,Débito automático,alta,0.1117,15.0000,60.0472,56,One year,Electronic check,111.9500
+34,7067-KSAZT,0.3205,Débito automático,alta,0.1174,15.0000,59.8505,65,One year,Electronic check,106.2500
+35,0654-HMSHN,0.5112,Débito automático,alta,0.1190,15.0000,59.5415,21,Month-to-month,Electronic check,104.4000
+36,7901-TBKJX,0.5368,Débito automático,alta,0.1226,15.0000,59.3507,56,Month-to-month,Electronic check,101.0500
+37,1174-FGIFN,0.3474,Débito automático,alta,0.1346,15.0000,58.0241,28,One year,Electronic check,90.4500
+38,0327-WFZSY,0.3246,Débito automático,alta,0.1215,15.0000,57.8931,39,One year,Electronic check,100.0000
+39,8033-VCZGH,0.3099,Débito automático,alta,0.1161,15.0000,57.4334,50,One year,Electronic check,103.9500
+40,1143-NMNQJ,0.9043,Débito automático,alta,0.1409,15.0000,57.4310,2,Month-to-month,Electronic check,85.7000
+41,6032-KRXXO,0.6310,Débito automático,alta,0.1336,15.0000,57.3298,30,Month-to-month,Electronic check,90.2500
+42,4724-WXVWF,0.3303,Débito automático,alta,0.1261,15.0000,57.1689,48,Month-to-month,Electronic check,95.4000
+43,6979-ZNSFF,0.8175,Débito automático,alta,0.1376,15.0000,56.8733,8,Month-to-month,Electronic check,87.0500
+44,2587-EKXTS,0.4615,Débito automático,alta,0.1048,15.0000,55.1071,44,Month-to-month,Electronic check,111.5000
+45,5144-TVGLP,0.5858,Débito automático,alta,0.1232,15.0000,55.0283,38,Month-to-month,Electronic check,94.7500
+46,6646-QVXLR,0.3148,Débito automático,alta,0.1117,15.0000,54.5502,62,One year,Electronic check,103.7500
+47,7278-CKDNC,0.6123,Débito automático,alta,0.1431,15.0000,54.1321,24,Month-to-month,Electronic check,80.5000
+48,4088-YLDSU,0.3042,Débito automático,alta,0.1104,15.0000,54.0200,55,One year,Electronic check,104.1500
+49,9079-YEXQJ,0.3531,Débito automático,alta,0.1032,15.0000,53.7971,54,Month-to-month,Electronic check,111.1000
+50,6910-HADCM,0.6123,Débito automático,alta,0.1496,15.0000,53.5343,1,Month-to-month,Electronic check,76.3500
+51,1842-EZJMK,0.3032,Débito automático,alta,0.1094,15.0000,53.0761,50,Month-to-month,Electronic check,103.7000
+52,9248-OJYKK,0.9011,Débito automático,alta,0.1484,15.0000,53.0681,1,Month-to-month,Electronic check,76.4500
+53,3317-VLGQT,0.7083,Débito automático,alta,0.1445,15.0000,52.6951,14,Month-to-month,Electronic check,78.1000
+54,9940-RHLFB,0.6123,Débito automático,alta,0.1496,15.0000,52.5918,1,Month-to-month,Electronic check,75.3000
+55,3858-VOBET,0.6123,Débito automático,alta,0.1496,15.0000,52.2776,23,Month-to-month,Electronic check,74.9500
+56,3567-PQTSO,0.2994,Débito automático,alta,0.1056,15.0000,51.6815,53,One year,Electronic check,105.2500
+57,4558-FANTW,0.3138,Débito automático,alta,0.1200,15.0000,51.1450,17,Month-to-month,Electronic check,91.8500
+58,1448-PWKYE,0.6123,Débito automático,alta,0.1377,15.0000,51.0845,1,Month-to-month,Electronic check,80.0000
+59,6651-AZVTJ,0.4668,Débito automático,alta,0.1102,15.0000,50.9667,49,Month-to-month,Electronic check,99.8000
+60,4301-VVZKA,0.6912,Débito automático,alta,0.1452,15.0000,50.6989,16,Month-to-month,Electronic check,75.4000
+61,4412-YLTKF,0.6123,Débito automático,alta,0.1399,15.0000,50.5207,27,Month-to-month,Electronic check,78.0500
+62,3143-JQEGI,0.5858,Débito automático,alta,0.1232,15.0000,50.2981,13,Month-to-month,Electronic check,88.3500
+63,1989-PRJHP,0.6123,Débito automático,alta,0.1431,15.0000,49.8382,27,Month-to-month,Electronic check,75.5000
+64,5804-HYIEZ,0.2934,Débito automático,alta,0.1017,15.0000,49.7293,70,Month-to-month,Electronic check,106.0500
+65,4919-IKATY,0.5897,Débito automático,alta,0.1271,15.0000,49.4156,5,Month-to-month,Electronic check,84.5000
+66,4873-ILOLJ,0.6543,Débito automático,alta,0.1174,15.0000,48.6630,24,Month-to-month,Electronic check,90.3500
+67,5129-JLPIS,0.4565,Débito automático,alta,0.0999,15.0000,48.2126,25,Month-to-month,Electronic check,105.5000
+68,1370-GGAWX,0.3148,Débito automático,alta,0.1117,15.0000,48.1147,46,One year,Electronic check,94.1500
+69,3587-PMCOY,0.4627,Débito automático,alta,0.1060,15.0000,47.8911,10,One year,Electronic check,98.9000
+70,4713-LZDRV,0.8833,Débito automático,alta,0.1306,15.0000,47.3821,2,Month-to-month,Electronic check,79.6000
+71,7354-OIJLX,0.7511,Débito automático,alta,0.1360,15.0000,46.9091,9,Month-to-month,Electronic check,75.8500
+72,0923-PNFUB,0.5858,Débito automático,alta,0.1232,15.0000,46.8983,3,Month-to-month,Electronic check,83.7500
+73,2867-UIMSS,0.6868,Débito automático,alta,0.1279,15.0000,46.7815,1,Month-to-month,Electronic check,80.5000
+74,5889-JTMUL,0.4627,Débito automático,alta,0.1060,15.0000,45.4429,50,Month-to-month,Electronic check,95.0500
+75,6047-YHPVI,0.7083,Débito automático,alta,0.1445,15.0000,45.4142,5,Month-to-month,Electronic check,69.7000
+76,2924-KHUVI,0.2837,Débito automático,alta,0.0994,15.0000,44.9655,56,One year,Electronic check,100.5500
+77,4937-QPZPO,0.2934,Débito automático,alta,0.0997,15.0000,44.7306,61,One year,Electronic check,99.9000
+78,0330-IVZHA,0.5624,Débito automático,alta,0.1420,15.0000,44.6172,5,Month-to-month,Electronic check,69.9500
+79,8914-RBTSB,0.4615,Débito automático,alta,0.1048,15.0000,43.9780,31,Month-to-month,Electronic check,93.8000
+80,7279-BUYWN,0.4996,Débito automático,alta,0.0866,15.0000,43.8102,41,Month-to-month,Electronic check,113.2000
+81,2800-QQUSO,0.4897,Débito automático,alta,0.0975,15.0000,43.6576,42,Month-to-month,Electronic check,100.3000
+82,0488-GSLFR,0.7527,Débito automático,alta,0.1405,15.0000,43.5745,1,Month-to-month,Electronic check,69.5000
+83,3223-WZWJM,0.6543,Débito automático,alta,0.1154,15.0000,43.1022,26,Month-to-month,Electronic check,83.9500
+84,6311-UEUME,0.5368,Débito automático,alta,0.1226,15.0000,43.0532,29,Month-to-month,Electronic check,78.9000
+85,0471-ARVMX,0.2837,Débito automático,alta,0.0920,15.0000,42.8603,62,One year,Electronic check,104.8500
+86,5376-DEQCP,0.7486,Débito automático,alta,0.1363,15.0000,42.7366,1,Month-to-month,Electronic check,70.6000
+87,8160-HOWOX,0.5638,Débito automático,alta,0.1435,15.0000,42.5546,7,Month-to-month,Electronic check,66.8500
+88,3244-DCJWY,0.7486,Débito automático,alta,0.1363,15.0000,42.4504,1,Month-to-month,Electronic check,70.2500
+89,2439-LYPMQ,0.6123,Débito automático,alta,0.0933,15.0000,42.4354,38,Month-to-month,Electronic check,102.6000
+90,9779-DPNEJ,0.5368,Débito automático,alta,0.1182,15.0000,41.8210,22,Month-to-month,Electronic check,80.1500
+91,3721-CNEYS,0.7191,Débito automático,alta,0.1333,15.0000,41.7450,2,Month-to-month,Electronic check,70.9500
+92,6845-RGTYS,0.3567,Débito automático,alta,0.0955,15.0000,41.6091,47,Month-to-month,Electronic check,98.7500
+93,0388-EOPEX,0.5902,Débito automático,alta,0.1263,15.0000,41.3983,2,Month-to-month,Electronic check,74.4000
+94,3756-VNWDH,0.2837,Débito automático,alta,0.0920,15.0000,40.5978,65,One year,Electronic check,100.7500
+95,0004-TLHLJ,0.6891,Débito automático,alta,0.1253,15.0000,40.5523,4,Month-to-month,Electronic check,73.9000
+96,9851-KIELU,0.4627,Débito automático,alta,0.0840,15.0000,40.5016,10,Month-to-month,Electronic check,110.1000
+97,7534-BFESC,0.6123,Débito automático,alta,0.1209,15.0000,40.2229,24,Month-to-month,Electronic check,76.1000
+98,7460-ITWWP,0.4627,Débito automático,alta,0.1060,15.0000,39.7515,45,Month-to-month,Electronic check,86.1000
+99,0959-WHOKV,0.2837,Débito automático,alta,0.0920,15.0000,39.6320,42,One year,Electronic check,99.0000
+100,8714-EUHJO,0.5125,Débito automático,alta,0.0995,15.0000,39.4144,31,Month-to-month,Electronic check,91.1500
+101,6877-LGWXO,0.5839,Débito automático,alta,0.1148,15.0000,39.1077,18,Month-to-month,Electronic check,78.5500
+102,9576-SYUHJ,0.4553,Débito automático,alta,0.0987,15.0000,38.9634,37,Month-to-month,Electronic check,91.1500
+103,0581-BXBUB,0.5853,Débito automático,alta,0.1226,15.0000,38.5242,4,Month-to-month,Electronic check,72.7500
+104,9972-VAFJJ,0.1913,Débito automático,alta,0.0949,15.0000,38.5018,53,One year,Electronic check,94.0000
+105,4547-LYTDD,0.5368,Débito automático,alta,0.1226,15.0000,38.4545,16,Month-to-month,Electronic check,72.6500
+106,9508-ILZDG,0.4627,Débito automático,alta,0.0924,15.0000,38.4167,34,Month-to-month,Electronic check,96.3500
+107,0685-MLYYM,0.6543,Débito automático,alta,0.1252,15.0000,38.1390,2,Month-to-month,Electronic check,70.7500
+108,1658-TJVOA,0.6123,Débito automático,alta,0.1192,15.0000,37.9745,6,Month-to-month,Electronic check,74.1000
+109,0963-ZBDRN,0.4840,Débito automático,alta,0.0917,15.0000,37.9556,32,Month-to-month,Electronic check,96.2000
+110,4912-PIGUY,0.8684,Débito automático,alta,0.1042,15.0000,37.8890,1,Month-to-month,Electronic check,84.6000
+111,9700-ISPUP,0.3474,Débito automático,alta,0.1346,15.0000,37.8809,10,Month-to-month,Electronic check,65.5000
+112,7817-BOQPW,0.7924,Débito automático,alta,0.1166,15.0000,37.8657,2,Month-to-month,Electronic check,75.5500
+113,1077-HUUJM,0.5858,Débito automático,alta,0.1232,15.0000,37.5119,7,Month-to-month,Electronic check,71.0500
+114,0486-HECZI,0.3099,Débito automático,alta,0.0904,15.0000,37.4593,55,Month-to-month,Electronic check,96.7500
+115,2386-OWURY,0.3531,Débito automático,alta,0.0915,15.0000,37.3037,58,Month-to-month,Electronic check,95.3000
+116,7056-IMHCC,0.5039,Débito automático,alta,0.0847,15.0000,36.8059,53,Month-to-month,Electronic check,101.9000
+117,5469-CTCWN,0.1917,Débito automático,alta,0.0812,15.0000,36.6262,61,One year,Electronic check,106.0000
+118,6077-BDPXA,0.7083,Débito automático,alta,0.1224,15.0000,36.5302,3,Month-to-month,Electronic check,70.1500
+119,2955-BJZHG,0.4627,Débito automático,alta,0.1060,15.0000,36.4130,17,Month-to-month,Electronic check,80.8500
+120,9844-FELAJ,0.1913,Débito automático,alta,0.0782,15.0000,35.6580,70,One year,Electronic check,107.9000
+121,5336-UFNZP,0.2702,Débito automático,alta,0.0785,15.0000,35.5916,65,One year,Electronic check,107.4500
+122,5281-BUZGT,0.4627,Débito automático,alta,0.0927,15.0000,35.5091,36,Month-to-month,Electronic check,90.8500
+123,2971-SGAFL,0.4627,Débito automático,alta,0.1060,15.0000,35.0776,13,Month-to-month,Electronic check,78.7500
+124,8728-SKJLR,0.3148,Débito automático,alta,0.1117,15.0000,34.7745,41,Month-to-month,Electronic check,74.2500
+125,3750-CKVKH,0.7083,Débito automático,alta,0.1224,15.0000,34.7672,2,Month-to-month,Electronic check,67.7500
+126,1902-XBTFB,0.4627,Débito automático,alta,0.0924,15.0000,34.5636,22,Month-to-month,Electronic check,89.4000
+127,1522-VVDMG,0.4842,Débito automático,alta,0.0920,15.0000,34.5505,7,Month-to-month,Electronic check,89.7500
+128,2659-VXMWZ,0.1809,Débito automático,alta,0.0738,15.0000,34.3052,67,One year,Electronic check,111.3000
+129,6705-LXORM,0.5858,Débito automático,alta,0.1167,15.0000,34.0515,5,Month-to-month,Electronic check,70.0500
+130,6769-DYBQN,0.3000,Débito automático,alta,0.0961,15.0000,34.0043,46,Month-to-month,Electronic check,85.0000
+131,7993-PYKOF,0.4615,Débito automático,alta,0.1088,15.0000,33.9533,8,Month-to-month,Electronic check,75.0000
+132,0988-JRWWP,0.5417,Débito automático,alta,0.1495,15.0000,33.6026,3,Month-to-month,Electronic check,54.2000
+133,2482-CZGBB,0.6372,Débito automático,alta,0.1154,15.0000,33.4886,10,Month-to-month,Electronic check,70.0000
+134,5949-HGVJL,0.3140,Débito automático,alta,0.1105,15.0000,33.4130,26,Month-to-month,Electronic check,73.0500
+135,2609-IAICY,0.7796,Débito automático,alta,0.1038,15.0000,33.0705,1,Month-to-month,Electronic check,77.1500
+136,3063-QFSZL,0.5638,Débito automático,alta,0.1435,15.0000,32.6967,1,Month-to-month,Electronic check,55.4000
+137,5501-TVMGM,0.5638,Débito automático,alta,0.1435,15.0000,32.5676,1,Month-to-month,Electronic check,55.2500
+138,4640-UHDOS,0.3531,Débito automático,alta,0.1402,15.0000,32.0794,13,Month-to-month,Electronic check,55.9500
+139,5760-FXFVO,0.4914,Débito automático,alta,0.0992,15.0000,31.9961,6,Month-to-month,Electronic check,78.9500
+140,0682-USIXD,0.4691,Débito automático,alta,0.0905,15.0000,31.7209,21,Month-to-month,Electronic check,86.0500
+141,4415-IJZTP,0.7796,Débito automático,alta,0.1038,15.0000,31.4193,1,Month-to-month,Electronic check,74.5000
+142,1092-GANHU,0.5632,Débito automático,alta,0.1006,15.0000,31.2602,17,Month-to-month,Electronic check,76.6500
+143,2737-YNGYW,0.6543,Débito automático,alta,0.0954,15.0000,31.1086,2,Month-to-month,Electronic check,80.5500
+144,2252-JHJGE,0.1838,Débito automático,alta,0.0733,15.0000,30.7467,61,One year,Electronic check,104.0000
+145,3466-WAESX,0.3282,Débito automático,alta,0.1101,15.0000,30.6555,16,Month-to-month,Electronic check,69.1000
+146,8778-LMWTJ,0.5145,Débito automático,alta,0.1015,15.0000,30.5885,9,Month-to-month,Electronic check,74.8500
+147,8696-JKZNU,0.4924,Débito automático,alta,0.0990,15.0000,30.3058,37,Month-to-month,Electronic check,76.2500
+148,5539-TMZLF,0.7614,Débito automático,alta,0.1072,15.0000,29.8487,1,Month-to-month,Electronic check,69.7500
+149,7855-DIWPO,0.5217,Débito automático,alta,0.1075,15.0000,29.2885,21,Month-to-month,Electronic check,68.6500
+150,4184-VODJZ,0.1913,Débito automático,alta,0.0807,15.0000,29.2507,63,One year,Electronic check,91.3500
+151,0082-OQIQY,0.4691,Débito automático,alta,0.0769,15.0000,28.4683,29,Month-to-month,Electronic check,94.2000
+152,3312-ZWLGF,0.4691,Débito automático,alta,0.0905,15.0000,28.0560,29,Month-to-month,Electronic check,79.3000
+153,9465-RWMXL,0.4691,Débito automático,alta,0.0905,15.0000,27.8388,32,Month-to-month,Electronic check,78.9000
+154,1319-YLZJG,0.4407,Débito automático,alta,0.0840,15.0000,27.6480,12,Month-to-month,Electronic check,84.6000
+155,2101-RANCD,0.3567,Débito automático,alta,0.0955,15.0000,26.9050,55,Month-to-month,Electronic check,73.1000
+156,2750-BJLSB,0.1913,Débito automático,alta,0.0670,15.0000,26.7001,47,One year,Electronic check,103.7000
+157,3313-QKNKB,0.1917,Débito automático,alta,0.0812,15.0000,26.6662,59,One year,Electronic check,85.5500
+158,3292-PBZEJ,0.7486,Contrato anual,média,0.2465,60.0000,104.7375,11,Month-to-month,Electronic check,111.4000
+159,9278-VZKCD,0.4191,Débito automático,alta,0.0624,15.0000,25.8790,52,Month-to-month,Electronic check,109.1000
+160,0537-QYZZN,0.4419,Débito automático,alta,0.0852,15.0000,25.8238,24,Month-to-month,Electronic check,79.8500
+161,7130-VTEWQ,0.7653,Débito automático,alta,0.0895,15.0000,25.6760,8,Month-to-month,Electronic check,75.7500
+162,4298-OYIFC,0.7353,Contrato anual,média,0.2610,60.0000,101.9884,15,Month-to-month,Electronic check,103.4500
+163,2604-IJPDU,0.3786,Débito automático,alta,0.0699,15.0000,25.4866,20,Month-to-month,Electronic check,96.5500
+164,1320-HTRDR,0.7642,Débito automático,alta,0.0885,15.0000,25.0842,3,Month-to-month,Electronic check,75.5000
+165,4090-KPJIP,0.7642,Débito automático,alta,0.0885,15.0000,24.7922,3,Month-to-month,Electronic check,74.9500
+166,6377-WHAOX,0.4191,Débito automático,alta,0.0624,15.0000,24.7736,60,Month-to-month,Electronic check,106.1500
+167,6946-LMSQS,0.3983,Débito automático,alta,0.0743,15.0000,24.6762,25,One year,Electronic check,89.0500
+168,2038-LLMLM,0.4203,Débito automático,alta,0.0636,15.0000,24.6536,48,Month-to-month,Electronic check,103.8500
+169,3992-YWPKO,0.6338,Contrato anual,média,0.2403,60.0000,98.4859,6,Month-to-month,Credit card (automatic),109.9000
+170,5226-NOZFC,0.4691,Débito automático,alta,0.0769,15.0000,24.5691,26,Month-to-month,Electronic check,85.7500
+171,8785-CJSHH,0.4191,Débito automático,alta,0.0660,15.0000,24.5247,60,Month-to-month,Electronic check,99.8000
+172,1035-IPQPU,0.4203,Débito automático,alta,0.0636,15.0000,24.5200,63,Month-to-month,Electronic check,103.5000
+173,1731-TVIUK,0.7083,Contrato anual,média,0.2815,60.0000,97.9101,4,Month-to-month,Electronic check,93.5000
+174,5419-CONWX,0.7486,Contrato anual,média,0.2616,60.0000,96.6301,4,Month-to-month,Credit card (automatic),99.8000
+175,5442-BHQNG,0.5858,Débito automático,alta,0.0927,15.0000,24.1397,2,Month-to-month,Electronic check,70.3500
+176,6557-BZXLQ,0.4870,Débito automático,alta,0.0936,15.0000,24.1048,16,Month-to-month,Electronic check,69.6500
+177,5402-HTOTQ,0.3246,Débito automático,alta,0.1176,15.0000,24.0096,16,Month-to-month,Electronic check,55.3000
+178,0749-IRGQE,0.5638,Débito automático,alta,0.1435,15.0000,24.0011,13,Month-to-month,Electronic check,45.3000
+179,9057-SIHCH,0.9905,Contrato anual,média,0.2690,60.0000,95.8896,3,Month-to-month,Electronic check,96.6000
+180,2041-JIJCI,0.5638,Débito automático,alta,0.1011,15.0000,23.8404,5,Month-to-month,Electronic check,64.0000
+181,6892-XPFPU,0.7353,Contrato anual,média,0.2483,60.0000,95.3259,24,Month-to-month,Electronic check,104.2500
+182,0871-URUWO,0.7353,Contrato anual,média,0.2511,60.0000,94.0327,13,Month-to-month,Credit card (automatic),102.2500
+183,4818-QIUFN,0.5368,Débito automático,alta,0.0811,15.0000,23.4919,20,Month-to-month,Electronic check,79.1500
+184,4817-VYYWS,0.6758,Contrato anual,média,0.2554,60.0000,93.5743,30,Month-to-month,Electronic check,100.2000
+185,9048-JVYVF,0.4842,Débito automático,alta,0.0920,15.0000,23.2877,3,Month-to-month,Electronic check,69.3500
+186,8245-UMPYT,0.9186,Contrato anual,média,0.2644,60.0000,92.9229,16,Month-to-month,Electronic check,96.4000
+187,6284-KMNUF,0.2462,Débito automático,alta,0.0649,15.0000,23.1505,56,One year,Electronic check,98.0000
+188,7029-RPUAV,0.7353,Contrato anual,média,0.2511,60.0000,91.3211,17,Month-to-month,Credit card (automatic),100.4500
+189,4846-WHAFZ,0.4746,Débito automático,alta,0.0824,15.0000,22.8043,37,Month-to-month,Electronic check,76.5000
+190,3768-NLUBH,0.4191,Débito automático,alta,0.0624,15.0000,22.6941,57,Month-to-month,Electronic check,100.6000
+191,2665-NPTGL,0.6758,Contrato anual,média,0.2554,60.0000,90.3556,26,Month-to-month,Bank transfer (automatic),98.1000
+192,0422-UXFAP,0.3567,Débito automático,alta,0.0632,15.0000,22.5066,51,One year,Electronic check,98.8500
+193,5650-YLIBA,0.4691,Débito automático,alta,0.0769,15.0000,22.4464,31,Month-to-month,Electronic check,81.1500
+194,7181-BQYBV,0.7449,Contrato anual,média,0.2428,60.0000,89.2338,1,Month-to-month,Electronic check,102.4500
+195,3331-HQDTW,0.4130,Débito automático,alta,0.0563,15.0000,22.1078,34,Month-to-month,Mailed check,109.8000
+196,7892-POOKP,0.6338,Contrato anual,média,0.2354,60.0000,88.0300,28,Month-to-month,Electronic check,104.8000
+197,6023-YEBUP,0.9905,Contrato anual,média,0.2443,60.0000,87.9702,3,Month-to-month,Electronic check,100.9500
+198,9565-DJPIB,0.5531,Suporte técnico,baixa — extrapolação,0.1596,35.0000,50.8258,4,Month-to-month,Mailed check,89.6000
+199,2501-XWWTZ,0.4795,Débito automático,alta,0.0873,15.0000,21.7792,11,Month-to-month,Electronic check,70.2000
+200,7529-ZDFXI,0.3983,Débito automático,alta,0.0681,15.0000,21.6883,57,Month-to-month,Electronic check,89.8500
+201,3585-ISXZP,0.6758,Contrato anual,média,0.2554,60.0000,86.6006,8,Month-to-month,Bank transfer (automatic),95.6500
+202,4735-ASGMA,0.7353,Contrato anual,média,0.2483,60.0000,86.5353,26,Month-to-month,Electronic check,98.3500
+203,9833-TGFHX,0.1917,Débito automático,alta,0.0627,15.0000,21.5273,42,One year,Electronic check,97.1000
+204,9221-OTIVJ,0.8605,Contrato anual,média,0.2311,60.0000,85.4023,14,Month-to-month,Electronic check,104.8500
+205,5167-ZFFMM,0.7353,Contrato anual,média,0.2662,60.0000,85.0947,1,Month-to-month,Credit card (automatic),90.8500
+206,7892-QVYKW,0.4627,Débito automático,alta,0.0704,15.0000,21.1744,23,Month-to-month,Electronic check,85.6000
+207,8445-DNBAE,0.5112,Débito automático,alta,0.1190,15.0000,20.7357,1,Month-to-month,Electronic check,50.0500
+208,8443-ZRDBZ,0.7541,Débito automático,alta,0.0783,15.0000,20.7349,4,Month-to-month,Electronic check,76.0500
+209,4587-VVTOX,0.8119,Contrato anual,média,0.2261,60.0000,82.8437,6,Month-to-month,Electronic check,105.3000
+210,9732-KPKBW,0.3282,Débito automático,alta,0.1101,15.0000,20.6456,1,Month-to-month,Electronic check,53.9500
+211,6559-RAKOZ,0.2539,Débito automático,alta,0.0606,15.0000,20.6002,49,One year,Electronic check,97.9500
+212,5052-PNLOS,0.7486,Contrato anual,média,0.2244,60.0000,81.8632,3,Month-to-month,Bank transfer (automatic),105.3500
+213,2025-JKFWI,0.6587,Contrato anual,média,0.2383,60.0000,81.5797,13,Month-to-month,Mailed check,99.0000
+214,6030-REHUX,0.6123,Contrato anual,média,0.2127,60.0000,81.4838,28,Month-to-month,Electronic check,110.8500
+215,9644-UMGQA,0.3282,Débito automático,alta,0.1195,15.0000,20.2268,6,Month-to-month,Electronic check,49.1500
+216,3966-HRMZA,0.5816,Suporte técnico,baixa — extrapolação,0.1820,35.0000,46.9692,3,Month-to-month,Mailed check,75.0500
+217,8166-ORCHU,0.1913,Débito automático,alta,0.0626,15.0000,20.1180,33,One year,Electronic check,93.5500
+218,4445-ZJNMU,0.7353,Contrato anual,média,0.2357,60.0000,80.4452,9,Month-to-month,Credit card (automatic),99.3000
+219,7392-YYPYJ,0.7527,Contrato anual,média,0.2310,60.0000,79.5113,22,Month-to-month,Electronic check,100.6500
+220,6543-XRMYR,0.7198,Contrato anual,média,0.2328,60.0000,79.2415,30,Month-to-month,Electronic check,99.7000
+221,1567-DSCIC,0.7486,Contrato anual,média,0.2465,60.0000,79.0065,8,Month-to-month,Electronic check,94.0000
+222,0295-PPHDO,0.9905,Contrato anual,média,0.2419,60.0000,78.5448,1,Month-to-month,Electronic check,95.4500
+223,8058-DMYRU,0.4203,Débito automático,alta,0.0636,15.0000,19.3843,54,Month-to-month,Electronic check,90.0500
+224,2754-SDJRD,0.7527,Contrato anual,média,0.2284,60.0000,77.2674,8,Month-to-month,Credit card (automatic),100.1500
+225,8884-ADFVN,0.9597,Contrato anual,média,0.2244,60.0000,77.2633,7,Month-to-month,Electronic check,101.9500
+226,0256-LTHVJ,0.4627,Débito automático,alta,0.0704,15.0000,19.2516,28,Month-to-month,Electronic check,81.0500
+227,4884-ZTHVF,0.7486,Contrato anual,média,0.2616,60.0000,76.6982,8,Month-to-month,Electronic check,87.1000
+228,6137-NICCO,0.6338,Contrato anual,média,0.2415,60.0000,76.3006,6,Month-to-month,Mailed check,94.0500
+229,5380-WJKOV,0.6123,Contrato anual,média,0.2127,60.0000,75.7402,34,Month-to-month,Electronic check,106.3500
+230,7218-HKQFK,0.7083,Contrato anual,média,0.2391,60.0000,75.1213,2,Month-to-month,Electronic check,94.2000
+231,2845-HSJCY,0.7269,Contrato anual,média,0.2578,60.0000,74.9477,14,Month-to-month,Electronic check,87.2500
+232,2758-RNWXS,0.1917,Débito automático,alta,0.0630,15.0000,18.7198,35,One year,Electronic check,89.2000
+233,8059-UDZFY,0.5177,Suporte técnico,baixa — extrapolação,0.1242,35.0000,43.5330,33,Month-to-month,Bank transfer (automatic),105.3500
+234,0684-AOSIH,0.7395,Contrato anual,média,0.2356,60.0000,74.3056,1,Month-to-month,Electronic check,95.0000
+235,7273-TEFQD,0.7479,Débito automático,alta,0.1357,15.0000,18.4972,3,Month-to-month,Electronic check,41.1500
+236,6861-XWTWQ,0.9597,Contrato anual,média,0.2244,60.0000,73.6281,7,Month-to-month,Electronic check,99.2500
+237,4760-THGOT,0.3786,Débito automático,alta,0.0590,15.0000,18.2888,43,Month-to-month,Electronic check,94.1000
+238,0823-HSCDJ,0.3040,Débito automático,alta,0.1123,15.0000,18.1289,52,Month-to-month,Electronic check,49.1500
+239,9190-MFJLN,0.6294,Contrato anual,média,0.2298,60.0000,72.2396,19,Month-to-month,Credit card (automatic),95.9000
+240,9611-CTWIH,0.8492,Contrato anual,média,0.2463,60.0000,72.1880,3,Month-to-month,Electronic check,89.4500
+241,6583-KQJLK,0.7191,Contrato anual,média,0.2321,60.0000,71.8362,15,Month-to-month,Electronic check,94.6500
+242,0531-ZZJWQ,0.3786,Débito automático,alta,0.0740,15.0000,17.8651,55,Month-to-month,Electronic check,74.0000
+243,0235-KGSLC,0.6758,Contrato anual,média,0.2554,60.0000,71.1205,1,Month-to-month,Credit card (automatic),85.5500
+244,0979-PHULV,0.3317,Suporte técnico,baixa — extrapolação,0.1282,35.0000,41.4766,69,Month-to-month,Credit card (automatic),99.4500
+245,5609-CEBID,0.7191,Contrato anual,média,0.2321,60.0000,71.0702,20,Month-to-month,Electronic check,94.1000
+246,3338-CVVEH,0.7527,Contrato anual,média,0.2310,60.0000,71.0560,12,Month-to-month,Electronic check,94.5500
+247,8949-JTMAY,0.6123,Contrato anual,média,0.2200,60.0000,70.1748,29,Month-to-month,Credit card (automatic),98.6000
+248,8709-KRDVL,0.6372,Contrato anual,média,0.2168,60.0000,70.1094,33,Month-to-month,Electronic check,100.0000
+249,6857-VWJDT,0.7624,Contrato anual,média,0.2256,60.0000,69.4686,1,Month-to-month,Mailed check,95.6500
+250,3320-VEOYC,0.9011,Contrato anual,média,0.2253,60.0000,69.2184,14,Month-to-month,Electronic check,95.6000
+251,6683-VLCTZ,0.8302,Contrato anual,média,0.2179,60.0000,68.8451,20,Month-to-month,Electronic check,98.5500
+252,5178-LMXOP,0.9905,Contrato anual,média,0.2257,60.0000,68.7967,1,Month-to-month,Electronic check,95.1000
+253,5644-PDMZC,0.7486,Contrato anual,média,0.2395,60.0000,68.6327,2,Month-to-month,Electronic check,89.5000
+254,8695-ARGXZ,0.4691,Débito automático,alta,0.0708,15.0000,17.0870,34,Month-to-month,Electronic check,75.5500
+255,9128-CPXKI,0.1105,Débito automático,alta,0.0558,15.0000,17.0458,59,Two year,Electronic check,95.8000
+256,4115-NZRKS,0.8684,Contrato anual,média,0.2391,60.0000,67.8836,7,Month-to-month,Electronic check,89.1500
+257,1751-NCDLI,0.6123,Contrato anual,média,0.2139,60.0000,66.8736,46,Month-to-month,Electronic check,98.8500
+258,8008-HAWED,0.6123,Débito automático,alta,0.1040,15.0000,16.6811,14,Month-to-month,Electronic check,50.7500
+259,6680-WKXRZ,0.5858,Suporte técnico,baixa — extrapolação,0.1655,35.0000,38.8907,3,Month-to-month,Bank transfer (automatic),74.4000
+260,2865-TCHJW,0.8875,Contrato anual,média,0.2366,60.0000,66.6424,4,Month-to-month,Electronic check,89.2000
+261,6581-NQCBA,0.4842,Débito automático,alta,0.1056,15.0000,16.6482,16,Month-to-month,Electronic check,49.9500
+262,8622-ZLFKO,0.7685,Contrato anual,média,0.2317,60.0000,66.1517,6,Month-to-month,Electronic check,90.7500
+263,2985-FMWYF,0.7837,Contrato anual,média,0.2248,60.0000,66.1324,23,Month-to-month,Electronic check,93.5000
+264,1112-CUNAO,0.6543,Contrato anual,média,0.2339,60.0000,66.1200,15,Month-to-month,Electronic check,89.8500
+265,4016-BJKTZ,0.2010,Débito automático,alta,0.0482,15.0000,16.5189,25,Two year,Electronic check,108.9000
+266,3932-CMDTD,0.4419,Débito automático,alta,0.0497,15.0000,16.4782,4,One year,Electronic check,105.6500
+267,1379-FRVEB,0.6294,Contrato anual,média,0.2298,60.0000,65.4829,15,Month-to-month,Electronic check,91.0000
+268,9079-LWTFD,0.1809,Débito automático,alta,0.0519,15.0000,16.3571,47,Month-to-month,Mailed check,100.7500
+269,3923-CSIHK,0.3338,Débito automático,alta,0.0734,15.0000,16.3116,50,Month-to-month,Electronic check,71.0500
+270,3247-ZVOUO,0.7353,Contrato anual,média,0.2429,60.0000,64.6643,10,Month-to-month,Electronic check,85.5500
+271,8266-VBFQL,0.6294,Contrato anual,média,0.2298,60.0000,64.6555,4,Month-to-month,Electronic check,90.4000
+272,4631-OACRM,0.7486,Contrato anual,média,0.2616,60.0000,64.6135,15,Month-to-month,Electronic check,79.4000
+273,9334-GWGOW,0.7759,Débito automático,alta,0.0693,15.0000,16.1355,7,Month-to-month,Electronic check,74.8500
+274,4927-WWOOZ,0.8391,Contrato anual,média,0.2268,60.0000,64.4477,2,Month-to-month,Electronic check,91.4500
+275,5366-IJEQJ,0.7028,Contrato anual,média,0.2337,60.0000,64.3601,20,Month-to-month,Electronic check,88.7000
+276,6815-ABQFQ,0.2396,Débito automático,alta,0.0483,15.0000,16.0564,56,One year,Electronic check,107.2500
+277,5348-CAGXB,0.7601,Contrato anual,média,0.2310,60.0000,64.1144,12,Month-to-month,Electronic check,89.5500
+278,2057-ZBLPD,0.7083,Contrato anual,média,0.2391,60.0000,64.1108,21,Month-to-month,Electronic check,86.5000
+279,9094-AZPHK,0.7642,Contrato anual,média,0.2054,60.0000,63.4192,15,Month-to-month,Electronic check,100.1500
+280,2860-RANUS,0.6591,Contrato anual,média,0.2388,60.0000,62.9439,20,Month-to-month,Credit card (automatic),85.8000
+281,4402-FTBXC,0.1809,Débito automático,alta,0.0566,15.0000,15.5148,54,Month-to-month,Mailed check,89.8000
+282,0970-ETWGE,0.8821,Contrato anual,média,0.2269,60.0000,61.8942,1,Month-to-month,Electronic check,89.5500
+283,1575-KRZZE,0.2837,Débito automático,alta,0.0920,15.0000,15.4615,4,Month-to-month,Electronic check,55.2000
+284,0365-GXEZS,0.3786,Débito automático,alta,0.0646,15.0000,15.3316,18,Month-to-month,Electronic check,78.2000
+285,9741-YLNTD,0.6294,Contrato anual,média,0.2298,60.0000,61.2771,6,Month-to-month,Bank transfer (automatic),87.9500
+286,5628-FCGYG,0.7083,Contrato anual,média,0.2391,60.0000,60.6673,21,Month-to-month,Electronic check,84.1000
+287,6507-ZJSUR,0.7395,Contrato anual,média,0.2220,60.0000,60.4984,23,Month-to-month,Electronic check,90.4500
+288,4983-CLMLV,0.3531,Contrato anual,média,0.1956,60.0000,60.4981,52,Month-to-month,Credit card (automatic),102.7000
+289,2810-FTLEM,0.2934,Débito automático,alta,0.0997,15.0000,14.9849,16,Month-to-month,Electronic check,50.1500
+290,9050-QLROH,0.6123,Contrato anual,média,0.2200,60.0000,59.7449,18,Month-to-month,Credit card (automatic),90.7000
+291,4706-AXVKM,0.7527,Contrato anual,média,0.2353,60.0000,59.7132,11,Month-to-month,Credit card (automatic),84.8000
+292,9274-CNFMO,0.7353,Contrato anual,média,0.2662,60.0000,59.7011,4,Month-to-month,Electronic check,74.9500
+293,5339-PXDVH,0.6123,Contrato anual,média,0.2200,60.0000,59.6789,4,Month-to-month,Electronic check,90.6500
+294,2034-GDRCN,0.8492,Contrato anual,média,0.2199,60.0000,59.2592,2,Month-to-month,Electronic check,90.4000
+295,4323-SADQS,0.3567,Débito automático,alta,0.1440,15.0000,14.8108,7,Month-to-month,Electronic check,34.5000
+296,8699-ASUFO,0.7353,Contrato anual,média,0.2662,60.0000,58.8227,7,Month-to-month,Mailed check,74.4000
+297,9507-EXLTT,0.6758,Contrato anual,média,0.2490,60.0000,58.5353,1,Month-to-month,Bank transfer (automatic),79.3500
+298,5196-SGOAK,0.6868,Contrato anual,média,0.2600,60.0000,58.0824,1,Month-to-month,Electronic check,75.7000
+299,0432-CAJZV,0.6372,Contrato anual,média,0.2168,60.0000,58.0092,3,Month-to-month,Mailed check,90.7000
+300,7722-CVFXN,0.1938,Débito automático,alta,0.0466,15.0000,14.4170,54,One year,Electronic check,105.2000
+301,9685-WKZGT,0.7486,Contrato anual,média,0.2616,60.0000,57.6295,14,Month-to-month,Electronic check,74.9500
+302,4226-KKDON,0.3786,Débito automático,alta,0.0734,15.0000,14.3543,8,Month-to-month,Electronic check,66.6500
+303,2761-OCIAX,0.7486,Contrato anual,média,0.2616,60.0000,57.2372,2,Month-to-month,Electronic check,74.7000
+304,3030-YDNRM,0.7480,Contrato anual,média,0.2610,60.0000,57.2218,8,Month-to-month,Electronic check,74.8500
+305,9054-FOWNV,0.6123,Contrato anual,média,0.2200,60.0000,57.1705,22,Month-to-month,Electronic check,88.7500
+306,6969-MVBAI,0.8457,Contrato anual,média,0.2163,60.0000,56.9327,9,Month-to-month,Electronic check,90.1000
+307,3540-RZJYU,0.4132,Débito automático,alta,0.0565,15.0000,14.2204,15,Month-to-month,Electronic check,86.2000
+308,2480-SQIOB,0.3531,Débito automático,alta,0.1079,15.0000,14.0137,4,Month-to-month,Electronic check,44.8000
+309,9450-TRJUU,0.4146,Débito automático,alta,0.0579,15.0000,13.8919,35,Month-to-month,Electronic check,83.1500
+310,2272-WUSPA,0.0958,Débito automático,alta,0.0435,15.0000,13.8802,72,Two year,Electronic check,110.7500
+311,7517-LDMPS,0.6543,Contrato anual,média,0.2275,60.0000,55.4641,12,Month-to-month,Electronic check,84.6000
+312,4686-UXDML,0.5858,Contrato anual,média,0.1924,60.0000,55.2808,21,Month-to-month,Credit card (automatic),99.8500
+313,6319-IEJWJ,0.6123,Contrato anual,média,0.2127,60.0000,55.1271,20,Month-to-month,Electronic check,90.2000
+314,7912-SYRQT,0.6758,Contrato anual,média,0.2554,60.0000,55.1041,7,Month-to-month,Bank transfer (automatic),75.1000
+315,0523-VNGTF,0.1913,Débito automático,alta,0.0949,15.0000,13.7430,52,Month-to-month,Electronic check,50.5000
+316,2027-FECZV,0.7653,Contrato anual,média,0.1794,60.0000,54.8624,12,Month-to-month,Electronic check,106.7000
+317,9692-TUSXH,0.6123,Contrato anual,média,0.1993,60.0000,54.8356,18,Month-to-month,Electronic check,96.0500
+318,3199-XGZCY,0.7486,Contrato anual,média,0.2543,60.0000,54.8102,8,Month-to-month,Electronic check,75.2500
+319,1302-UHBDD,0.6123,Contrato anual,média,0.2127,60.0000,54.8080,20,Month-to-month,Electronic check,89.9500
+320,5380-AFSSK,0.8406,Contrato anual,média,0.2034,60.0000,54.6017,5,Month-to-month,Mailed check,93.9000
+321,6127-ISGTU,0.7395,Contrato anual,média,0.2248,60.0000,54.5725,16,Month-to-month,Electronic check,84.9500
+322,1754-GKYPY,0.6123,Contrato anual,média,0.2127,60.0000,54.5527,22,Month-to-month,Bank transfer (automatic),89.7500
+323,1862-SKORY,0.3148,Débito automático,alta,0.1211,15.0000,13.5463,40,Month-to-month,Electronic check,39.3000
+324,7005-CCBKV,0.7175,Contrato anual,média,0.2251,60.0000,53.9803,6,Month-to-month,Electronic check,84.4000
+325,8397-MVTAZ,0.6587,Contrato anual,média,0.1895,60.0000,53.7747,34,Month-to-month,Electronic check,100.0500
+326,4581-LNWUM,0.5091,Débito automático,alta,0.0961,15.0000,13.3297,13,Month-to-month,Electronic check,49.1500
+327,8873-GLDMH,0.6758,Contrato anual,média,0.2554,60.0000,53.1882,6,Month-to-month,Mailed check,73.8500
+328,5159-YFPKQ,0.7353,Contrato anual,média,0.2483,60.0000,52.9372,2,Month-to-month,Electronic check,75.8000
+329,7363-QTBIW,0.7395,Contrato anual,média,0.2356,60.0000,52.7460,9,Month-to-month,Electronic check,79.7500
+330,5828-AVIPD,0.3995,Débito automático,alta,0.0464,15.0000,13.1178,19,One year,Electronic check,100.9500
+331,3325-FUYCG,0.2354,Débito automático,alta,0.0442,15.0000,13.1086,28,One year,Electronic check,106.1000
+332,2858-EIMXH,0.3303,Suporte técnico,baixa — extrapolação,0.1138,35.0000,30.4740,53,One year,Credit card (automatic),95.8500
+333,6000-APYLU,0.7486,Contrato anual,média,0.2311,60.0000,52.0464,9,Month-to-month,Electronic check,80.8000
+334,2959-FENLU,0.6123,Contrato anual,média,0.2188,60.0000,52.0064,9,Month-to-month,Credit card (automatic),85.3000
+335,8132-YPVBX,0.6372,Contrato anual,média,0.2168,60.0000,51.8290,6,Month-to-month,Mailed check,85.9500
+336,6270-OMFIW,0.1917,Débito automático,alta,0.0493,15.0000,12.9178,60,One year,Electronic check,94.4000
+337,4840-ORQXB,0.3922,Débito automático,alta,0.0444,15.0000,12.8756,56,Month-to-month,Electronic check,104.7500
+338,2960-NKRSO,0.3786,Débito automático,alta,0.0540,15.0000,12.8652,24,Month-to-month,Electronic check,85.9500
+339,5382-SOYZL,0.7542,Contrato anual,média,0.1953,60.0000,51.4372,22,Month-to-month,Electronic check,95.1000
+340,0524-IAVZO,0.6372,Contrato anual,média,0.2180,60.0000,51.2001,30,Month-to-month,Electronic check,85.0000
+341,0637-YLETY,0.5858,Contrato anual,média,0.1936,60.0000,51.0568,16,Month-to-month,Credit card (automatic),95.6000
+342,7054-ENNGU,0.2848,Débito automático,alta,0.0910,15.0000,12.7572,9,Month-to-month,Mailed check,50.8500
+343,1113-IUJYX,0.1913,Débito automático,alta,0.0436,15.0000,12.7202,14,One year,Mailed check,105.9500
+344,2485-ITVKB,0.6953,Débito automático,alta,0.1315,15.0000,12.7008,2,Month-to-month,Electronic check,35.1000
+345,8775-ERLNB,0.7353,Contrato anual,média,0.2483,60.0000,50.7023,1,Month-to-month,Electronic check,74.3000
+346,6712-OAWRH,0.6890,Contrato anual,média,0.2020,60.0000,50.6058,26,Month-to-month,Electronic check,91.2500
+347,3658-KIBGF,0.3786,Débito automático,alta,0.0839,15.0000,12.6383,1,Month-to-month,Electronic check,54.9000
+348,1447-GIQMR,0.7353,Contrato anual,média,0.2661,60.0000,50.3953,1,Month-to-month,Electronic check,69.1500
+349,8258-GSTJK,0.8678,Contrato anual,média,0.2384,60.0000,50.1547,3,Month-to-month,Electronic check,77.0000
+350,4283-FUTGF,0.6779,Contrato anual,média,0.2295,60.0000,49.9766,19,Month-to-month,Electronic check,79.8500
+351,5698-BQJOH,0.7530,Contrato anual,média,0.1941,60.0000,49.9464,9,Month-to-month,Electronic check,94.4000
+352,2754-XBHTB,0.6294,Contrato anual,média,0.2359,60.0000,49.9266,9,Month-to-month,Bank transfer (automatic),77.6500
+353,7493-TPUWZ,0.7486,Contrato anual,média,0.2311,60.0000,49.7583,1,Month-to-month,Electronic check,79.1500
+354,6608-QQLVK,0.4691,Débito automático,alta,0.0905,15.0000,12.4190,1,Month-to-month,Electronic check,50.5000
+355,6372-RFVNS,0.6587,Contrato anual,média,0.2319,60.0000,49.6304,1,Month-to-month,Electronic check,78.8000
+356,2398-YPMUR,0.6868,Contrato anual,média,0.2600,60.0000,49.4251,13,Month-to-month,Electronic check,70.1500
+357,2495-INZWQ,0.7395,Débito automático,alta,0.1023,15.0000,12.3495,4,Month-to-month,Electronic check,44.5500
+358,1016-DJTSV,0.7486,Contrato anual,média,0.2616,60.0000,49.3900,8,Month-to-month,Electronic check,69.7000
+359,6899-PPEEA,0.6758,Contrato anual,média,0.1888,60.0000,49.3540,37,Month-to-month,Electronic check,96.5500
+360,7180-PISOG,0.7462,Contrato anual,média,0.2441,60.0000,49.1058,1,Month-to-month,Electronic check,74.5000
+361,8086-OVPWV,0.7967,Contrato anual,média,0.2266,60.0000,49.0253,2,Month-to-month,Electronic check,80.2000
+362,1628-BIZYP,0.7527,Contrato anual,média,0.2133,60.0000,48.7583,1,Month-to-month,Electronic check,85.0000
+363,0679-IDSTG,0.7486,Contrato anual,média,0.2616,60.0000,48.6837,1,Month-to-month,Electronic check,69.2500
+364,9355-NPPFS,0.6294,Contrato anual,média,0.2298,60.0000,48.6599,26,Month-to-month,Electronic check,78.8000
+365,7198-GLXTC,0.6495,Contrato anual,média,0.2292,60.0000,48.6296,2,Month-to-month,Electronic check,79.0000
+366,9167-APMXZ,0.5858,Contrato anual,média,0.2144,60.0000,48.2459,22,Month-to-month,Bank transfer (automatic),84.1500
+367,2874-YXVVA,0.3995,Débito automático,alta,0.0429,15.0000,12.0302,34,Month-to-month,Electronic check,105.1000
+368,5357-TZHPP,0.7527,Contrato anual,média,0.2133,60.0000,47.9906,9,Month-to-month,Credit card (automatic),84.4000
+369,7861-UVUFT,0.6338,Contrato anual,média,0.2135,60.0000,47.9637,15,Month-to-month,Electronic check,84.3000
+370,3672-YITQD,0.6123,Contrato anual,média,0.2137,60.0000,47.8302,36,Month-to-month,Electronic check,84.1000
+371,9643-AVVWI,0.4484,Débito automático,alta,0.0561,15.0000,11.9438,3,Month-to-month,Electronic check,80.0000
+372,6993-YCOBK,0.0929,Débito automático,alta,0.0406,15.0000,11.9176,60,Two year,Electronic check,110.6000
+373,3372-KWFBM,0.7618,Contrato anual,média,0.2072,60.0000,47.6453,16,Month-to-month,Electronic check,86.6000
+374,9804-ICWBG,0.7485,Contrato anual,média,0.2561,60.0000,47.4112,1,Month-to-month,Electronic check,69.9000
+375,5542-TBBWB,0.7485,Contrato anual,média,0.2561,60.0000,47.4112,1,Month-to-month,Electronic check,69.9000
+376,8707-HOEDG,0.0929,Débito automático,alta,0.0406,15.0000,11.8202,70,Two year,Electronic check,110.2000
+377,7572-KPVKK,0.1287,Débito automático,alta,0.0429,15.0000,11.7953,62,Two year,Electronic check,104.0500
+378,2469-DTSGX,0.0924,Débito automático,alta,0.0400,15.0000,11.7926,72,Two year,Electronic check,111.6500
+379,3908-BLSYF,0.6123,Contrato anual,média,0.2127,60.0000,47.0860,6,Month-to-month,Electronic check,83.9000
+380,0363-QJVFX,0.3567,Contrato anual,média,0.1650,60.0000,47.0463,32,Month-to-month,Credit card (automatic),108.1500
+381,2959-MJHIC,0.7395,Contrato anual,média,0.2220,60.0000,47.0430,4,Month-to-month,Electronic check,80.3500
+382,7254-IQWOZ,0.7486,Contrato anual,média,0.2561,60.0000,47.0320,1,Month-to-month,Electronic check,69.6500
+383,6128-AQBMT,0.3786,Débito automático,alta,0.0826,15.0000,11.7318,41,Month-to-month,Electronic check,53.9500
+384,7249-WBIYX,0.7719,Contrato anual,média,0.2081,60.0000,46.8924,10,Month-to-month,Electronic check,85.6000
+385,1820-TQVEV,0.7486,Contrato anual,média,0.2561,60.0000,46.8784,1,Month-to-month,Electronic check,69.5500
+386,1200-TUZHR,0.7527,Contrato anual,média,0.2090,60.0000,46.8322,8,Month-to-month,Electronic check,85.2000
+387,5514-YQENT,0.0924,Débito automático,alta,0.0400,15.0000,11.6726,41,Two year,Electronic check,111.1500
+388,7181-OQCUT,0.4565,Suporte técnico,baixa — extrapolação,0.0999,35.0000,27.2240,21,Month-to-month,Mailed check,103.8500
+389,1116-DXXDF,0.1728,Débito automático,alta,0.0441,15.0000,11.5726,39,Two year,Electronic check,100.4500
+390,5198-EFNBM,0.1913,Débito automático,alta,0.0489,15.0000,11.5702,57,One year,Electronic check,90.6500
+391,3716-BDVDB,0.7486,Contrato anual,média,0.2561,60.0000,46.1869,1,Month-to-month,Electronic check,69.1000
+392,6383-ZTSIW,0.1869,Débito automático,alta,0.0445,15.0000,11.4763,39,One year,Mailed check,99.1000
+393,4658-HCOHW,0.3995,Débito automático,alta,0.0429,15.0000,11.4387,21,Month-to-month,Electronic check,102.8000
+394,5228-EXCET,0.6868,Contrato anual,média,0.2176,60.0000,45.5742,13,Month-to-month,Electronic check,80.8500
+395,6328-ZPBGN,0.7878,Contrato anual,média,0.1848,60.0000,45.5174,11,Month-to-month,Bank transfer (automatic),95.1500
+396,7251-XFOIL,0.2560,Débito automático,alta,0.0493,15.0000,11.3683,61,Month-to-month,Mailed check,89.2000
+397,9717-QEBGU,0.7368,Contrato anual,média,0.2498,60.0000,45.3799,2,Month-to-month,Electronic check,70.3000
+398,9866-QEVEE,0.5972,Contrato anual,média,0.2038,60.0000,45.1763,19,Month-to-month,Bank transfer (automatic),86.0000
+399,3006-XIMLN,0.7719,Contrato anual,média,0.1860,60.0000,45.1416,2,Month-to-month,Bank transfer (automatic),94.2000
+400,4419-UJMUS,0.0964,Débito automático,alta,0.0440,15.0000,11.2560,69,Two year,Electronic check,99.3500
+401,1360-JYXKQ,0.2354,Débito automático,alta,0.0442,15.0000,11.2541,54,One year,Electronic check,99.1000
+402,7209-JCUDS,0.7696,Contrato anual,média,0.1843,60.0000,44.9596,10,Month-to-month,Electronic check,94.9000
+403,4480-QQRHC,0.6294,Contrato anual,média,0.2359,60.0000,44.8302,8,Month-to-month,Bank transfer (automatic),74.0500
+404,0581-MDMPW,0.5531,Contrato anual,média,0.1964,60.0000,44.8123,24,Month-to-month,Credit card (automatic),88.9500
+405,2202-CUYXZ,0.7631,Contrato anual,média,0.2055,60.0000,44.6427,1,Month-to-month,Electronic check,84.8500
+406,0023-XUOPT,0.5638,Contrato anual,média,0.1852,60.0000,44.5435,13,Month-to-month,Electronic check,94.1000
+407,8821-XNHVZ,0.6378,Contrato anual,média,0.2175,60.0000,44.4731,1,Month-to-month,Mailed check,80.0500
+408,0689-NKYLF,0.6509,Contrato anual,média,0.2090,60.0000,44.3217,13,Month-to-month,Electronic check,83.2000
+409,1980-KXVPM,0.7527,Contrato anual,média,0.2310,60.0000,44.0270,3,Month-to-month,Credit card (automatic),75.0500
+410,6230-BSUXY,0.8331,Contrato anual,média,0.2037,60.0000,43.8843,1,Month-to-month,Electronic check,85.0000
+411,7504-UWHNB,0.3922,Débito automático,alta,0.0619,15.0000,10.9187,25,Month-to-month,Electronic check,69.7500
+412,0135-NMXAP,0.5858,Contrato anual,média,0.1924,60.0000,43.6199,12,Month-to-month,Bank transfer (automatic),89.7500
+413,2293-IJWPS,0.2934,Suporte técnico,baixa — extrapolação,0.0997,35.0000,25.2388,57,One year,Credit card (automatic),100.7500
+414,2187-PKZAY,0.6144,Contrato anual,média,0.2149,60.0000,43.0778,12,Month-to-month,Bank transfer (automatic),79.9500
+415,7495-OOKFY,0.6123,Contrato anual,média,0.2127,60.0000,42.9379,8,Month-to-month,Credit card (automatic),80.6500
+416,5307-DZCVC,0.5147,Suporte técnico,baixa — extrapolação,0.1163,35.0000,25.0006,32,Month-to-month,Credit card (automatic),85.9500
+417,9840-DVNDC,0.6123,Contrato anual,média,0.2127,60.0000,42.7464,6,Month-to-month,Credit card (automatic),80.5000
+418,1217-VASWC,0.2998,Suporte técnico,baixa — extrapolação,0.0992,35.0000,24.8744,43,One year,Bank transfer (automatic),100.5500
+419,6168-YBYNP,0.3567,Contrato anual,média,0.1536,60.0000,42.5899,59,Month-to-month,Electronic check,111.3500
+420,4647-MUZON,0.5697,Contrato anual,média,0.1775,60.0000,42.1915,18,Month-to-month,Credit card (automatic),95.9500
+421,8903-XEBGX,0.4691,Débito automático,alta,0.0769,15.0000,10.5180,2,Month-to-month,Electronic check,55.3000
+422,7409-KIUTL,0.7486,Contrato anual,média,0.2395,60.0000,42.0438,1,Month-to-month,Electronic check,71.0000
+423,3627-FHKBK,0.4130,Débito automático,alta,0.0563,15.0000,10.4483,1,Month-to-month,Mailed check,75.3000
+424,8541-QVFKM,0.7527,Contrato anual,média,0.2307,60.0000,41.7446,8,Month-to-month,Electronic check,73.5000
+425,0106-UGRDO,0.0889,Débito automático,alta,0.0365,15.0000,10.4121,69,Two year,Electronic check,116.0000
+426,1550-LOAHA,0.3205,Suporte técnico,baixa — extrapolação,0.1174,35.0000,24.2816,32,Month-to-month,Bank transfer (automatic),84.1500
+427,3420-YJLQT,0.6123,Contrato anual,média,0.2127,60.0000,41.5339,2,Month-to-month,Electronic check,79.5500
+428,3312-UUMZW,0.5190,Suporte técnico,baixa — extrapolação,0.0998,35.0000,24.2158,32,Month-to-month,Credit card (automatic),98.8500
+429,2254-DLXRI,0.6758,Contrato anual,média,0.2131,60.0000,41.2017,1,Month-to-month,Mailed check,79.1500
+430,0390-DCFDQ,0.7083,Contrato anual,média,0.2391,60.0000,41.0822,1,Month-to-month,Mailed check,70.4500
+431,4329-YPDDQ,0.3567,Contrato anual,média,0.1556,60.0000,41.0361,20,Month-to-month,Bank transfer (automatic),108.2000
+432,6733-LRIZX,0.2010,Débito automático,alta,0.0386,15.0000,10.2554,35,Two year,Electronic check,108.9500
+433,0164-APGRB,0.0889,Débito automático,alta,0.0365,15.0000,10.1711,72,Two year,Electronic check,114.9000
+434,8739-WWKDU,0.6294,Contrato anual,média,0.1875,60.0000,40.6751,25,Month-to-month,Electronic check,89.5000
+435,6891-JPYFF,0.3089,Contrato anual,média,0.1587,60.0000,40.2438,48,Month-to-month,Credit card (automatic),105.2500
+436,3761-FLYZI,0.3567,Contrato anual,média,0.1536,60.0000,40.2405,65,Month-to-month,Bank transfer (automatic),108.8000
+437,9139-WQQDY,0.1917,Débito automático,alta,0.0416,15.0000,10.0512,49,One year,Mailed check,100.4500
+438,4806-KEXQR,0.7527,Contrato anual,média,0.2090,60.0000,40.1866,4,Month-to-month,Electronic check,79.9000
+439,1475-VWVDO,0.6294,Contrato anual,média,0.2229,60.0000,40.1621,7,Month-to-month,Electronic check,74.9000
+440,7603-USHJS,0.5254,Suporte técnico,baixa — extrapolação,0.1320,35.0000,23.4131,12,Month-to-month,Credit card (automatic),73.7500
+441,1956-YIFGE,0.3474,Suporte técnico,baixa — extrapolação,0.0971,35.0000,23.2772,22,One year,Mailed check,100.0500
+442,9878-TNQGW,0.7809,Contrato anual,média,0.2045,60.0000,39.3119,2,Month-to-month,Electronic check,80.9500
+443,5445-PZWGX,0.0929,Débito automático,alta,0.0406,15.0000,9.8245,62,One year,Electronic check,102.0000
+444,0742-LAFQK,0.0864,Débito automático,alta,0.0417,15.0000,9.8037,72,Two year,Electronic check,99.1500
+445,0506-LVNGN,0.6123,Contrato anual,média,0.2188,60.0000,39.2038,5,Month-to-month,Credit card (automatic),75.5500
+446,1357-BIJKI,0.3303,Débito automático,alta,0.0420,15.0000,9.7765,50,One year,Electronic check,98.2500
+447,5032-MIYKT,0.6539,Contrato anual,média,0.2335,60.0000,39.0711,1,Month-to-month,Mailed check,70.7000
+448,2277-DJJDL,0.3983,Débito automático,alta,0.0417,15.0000,9.7543,60,Month-to-month,Electronic check,99.0000
+449,0431-APWVY,0.3303,Suporte técnico,baixa — extrapolação,0.1068,35.0000,22.7402,28,One year,Bank transfer (automatic),90.1000
+450,3707-GNWHM,0.7395,Contrato anual,média,0.2220,60.0000,38.9166,1,Month-to-month,Mailed check,74.2500
+451,7571-YXDAD,0.5638,Suporte técnico,baixa — extrapolação,0.1284,35.0000,22.6958,2,Month-to-month,Credit card (automatic),74.9000
+452,6741-EGCBI,0.4627,Suporte técnico,baixa — extrapolação,0.1060,35.0000,22.5495,30,Month-to-month,Credit card (automatic),90.5000
